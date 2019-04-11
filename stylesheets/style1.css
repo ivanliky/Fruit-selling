@@ -1,0 +1,30 @@
+table {
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+table th,
+table td {
+    padding: 15px;
+    border: 1px solid #000;
+}
+
+table th {
+    background-color: #eee;
+}
+
+table td {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+    display: block;
+}

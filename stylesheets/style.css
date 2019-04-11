@@ -1,0 +1,111 @@
+  #Admin {
+      background-image: url("../slike/admin.png");
+      background-repeat: no-repeat;
+      background-position: center left;
+      background-size: 150px;
+      background-color: #eee;
+      height: 620px;
+      width: 500px;
+      margin: 0 auto;
+      margin-top: 80px;
+      padding: 20px;
+
+  }
+
+  h1 {
+      text-align: center;
+  }
+
+  body {
+      background-image: url("../slike/adminCover.jpg");
+      background-size: cover;
+
+  }
+
+  form {
+
+      width: 30%;
+      margin: 0 auto;
+      position: relative;
+  }
+
+  input {
+
+      width: 120px;
+      margin: 0 auto;
+      font-size: 20px;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-top: 40px;
+      color: red;
+
+  }
+
+  a {
+      text-decoration: none;
+      display: inline-block;
+      background-color: #ccc;
+      padding: 9px;
+      font-size: 20px;
+      text-align: center;
+      width: 264px;
+      margin-left: 100px;
+      border-radius: 20px;
+      border: 1px solid #000;
+      color: #000;
+
+
+
+  }
+
+  input:nth-child(2) {
+
+      margin-top: 80px;
+      color: #000;
+
+
+
+  }
+
+  p {
+      font-size: 24px;
+      text-align: center;
+
+
+  }
+
+  select {
+
+      font-size: 20px;
+      background-color: #ccc;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-top: 30px;
+
+
+
+  }
+
+  #link {
+
+      background-color: #fff;
+      margin-top: 160px;
+      padding: 5px;
+
+  }
+
+  .zelena {
+      color: green;
+  }
+
+  .sredina {
+
+      margin-bottom: 10px;
+
+  }
+
+  .sredina:last-of-type {
+      margin: 0
+  }

@@ -1,0 +1,28 @@
+<style>#wrapper {
+
+    width: 600px;
+    height: 800px;
+    background-color: #eee;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+a {
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    margin-top: 55px;
+}
+
+.error {
+
+    font-size: 40px;
+    color: red;
+    text-align: center;
+
+}
+
+
+
+</style>

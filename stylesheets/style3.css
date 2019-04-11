@@ -1,0 +1,60 @@
+body {
+
+    background-image: url("slike/kljucevi.jpg");
+    background-size: cover;
+}
+
+
+#forma {
+
+    width: 280px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+input {
+
+    height: 25px;
+    margin-bottom: 5px;
+    marin-left: 20px;
+    margin-top: 25px;
+
+}
+
+
+
+input[type='submit'] {
+
+    transform: translateX(-50%);
+    position: absolute;
+    left: 50%;
+    font-size: 20px;
+
+}
+
+label {
+
+    font-size: 30px;
+    margin-left: 20px;
+    color: #fff;
+
+
+
+}
+
+p {
+
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 10px;
+}
